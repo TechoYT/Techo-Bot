@@ -1,4 +1,4 @@
-# ASTRO-MD
+# TECHO-BOT
 
    
   ### ඔබට පහසුවෙන් QR කේතය Repl.it මඟින් ලබා ගත හැක.. පහල බටනය CLICK කරන්න
